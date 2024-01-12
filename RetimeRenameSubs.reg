@@ -1,0 +1,17 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\Directory\shell\Retime/Rename Subs]
+"MUIVerb"="Retime/Rename Subs"
+"SubCommands"=""
+
+[HKEY_CLASSES_ROOT\Directory\shell\Retime/Rename Subs\shell\RetimeSubs]
+"MUIVerb"="RetimeSubs"
+
+[HKEY_CLASSES_ROOT\Directory\shell\Retime/Rename Subs\shell\RetimeSubs\command]
+@="\"C:\\Users\\CK\\Documents\\auto-sub-retimer\\RUN_ME.bat\" \"%1\""
+
+[HKEY_CLASSES_ROOT\Directory\shell\Retime/Rename Subs\shell\RenameSubs]
+"MUIVerb"="RenameSubs"
+
+[HKEY_CLASSES_ROOT\Directory\shell\Retime/Rename Subs\shell\RenameSubs\command]
+@="\"C:\\Users\\CK\\Documents\\auto-sub-retimer\\rename_only.bat\" \"%1\""

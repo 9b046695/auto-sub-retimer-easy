@@ -9,10 +9,8 @@ https://github.com/CardinalCK/auto-sub-retimer-easy/assets/2637621/dc98635a-2165
 
 2. Extract to somewhere, ideally somewhere you know you won't accidentally erase it (not your Downloads directory)
 
-3. Open RetimeSubs.reg in a word processor such as Notepad or SublimeText, and change the line containing RUN_ME.bat to the actual location of RUN_ME.bat in your computer. The example has it in the Documents folder of a user named CK, so if you also put it in your Documents folder you can simply change "CK" to your own Windows username.
+3. There are 4 files ending with ".reg". 3 of them adds items to your right click options. You can choose to add either one individually or both under single item to save space. The 4th item "removeAll" removes all the right click options added.
 
-If you also want the "Rename Only" functionality as a right click option you can run change "RenameSubs.reg" the same way and run it as well.
+3. All 3 registry files ending in "Subs" are run the same way. Open the files in a word processor such as Notepad or SublimeText, and change all lines containing "C:\\Users\\CK\\Documents\\auto-sub-retimer\\" to the actual location of the auto-sub-retimer directory in your computer. The example has it in the Documents folder of a user named CK, so if you also put it in your Documents folder you can simply change "CK" to your own Windows username.
 
-4. Restart your computer so the registry changes take effect. (simply logging off and back in might also work, but I'm not certain)
-
-5. You can now right click on your show directory (which should contain the video and subtitle files) and select RetimeSubs to run the auto-sub-retimer program.
+4. You can now right click on your show directory (which should contain the video and subtitle files for the auto-sub-retimer to work properly) and select RetimeSubs or RenameSubs to run the auto-sub-retimer program.

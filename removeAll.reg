@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+
+[-HKEY_CLASSES_ROOT\Directory\shell\RenameSubs]
+[-HKEY_CLASSES_ROOT\Directory\shell\RetimeSubs]
+[-HKEY_CLASSES_ROOT\Directory\shell\Retime/Rename Subs]
