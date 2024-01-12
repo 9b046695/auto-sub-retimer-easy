@@ -1,11 +1,8 @@
 ﻿# auto-sub-retimer-easy
 
+https://github.com/CardinalCK/auto-sub-retimer-easy/assets/2637621/1d381d78-60e0-460f-bb39-83bed55dd52c
 
-
-https://github.com/CardinalCK/auto-sub-retimer-easy/assets/2637621/53e3f084-4547-40f0-b138-6023f8e31203
-
-
-https://github.com/CardinalCK/auto-sub-retimer-easy/assets/2637621/d9fbd4a2-0c2c-4a35-9c20-ab70f877b1dc
+https://github.com/CardinalCK/auto-sub-retimer-easy/assets/2637621/dc98635a-2165-4dd9-8233-5dd14534f8e1
 
 
 1. Download the zip from github
