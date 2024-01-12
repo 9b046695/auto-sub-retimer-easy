@@ -2,10 +2,13 @@
 
 Another fork of Anacreon's auto-sub-retimer, aimed to make it as easy as possible to run.
 
+![retimerename](https://github.com/CardinalCK/auto-sub-retimer-easy/assets/2637621/49d663a3-a80c-4ac5-86aa-581429c31fac)
+
 https://github.com/CardinalCK/auto-sub-retimer-easy/assets/2637621/1d381d78-60e0-460f-bb39-83bed55dd52c
 
 https://github.com/CardinalCK/auto-sub-retimer-easy/assets/2637621/dc98635a-2165-4dd9-8233-5dd14534f8e1
 
+# How to Install
 
 1. Download the zip from github
 
