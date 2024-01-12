@@ -210,7 +210,7 @@ if __name__ == '__main__':
         print(f"Ensure you have an equal number of .mkv and .{CONF['ext']} files!")
         input("press enter to exit...")
         exit(1)
-    if len(sys.argv) > 1 and sys.argv[1] == "rename_only":
+    if len(sys.argv) > 2 and sys.argv[2] == "rename_only":
         for srt, mkv in zip(srts, mkvs):
             os.rename(srt, mkv.replace('.mkv', ".ja.{}".format(CONF['ext'])))
         input("Rename finished!")

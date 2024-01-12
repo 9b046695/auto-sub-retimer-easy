@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\Directory\shell\RenameSubs]
+@="RenameSubs"
+
+[HKEY_CLASSES_ROOT\Directory\shell\RenameSubs\command]
+@="\"C:\\Users\\CK\\Documents\\auto-sub-retimer\\rename_only.bat\" \"%1\""
