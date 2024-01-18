@@ -10,6 +10,8 @@ https://github.com/CardinalCK/auto-sub-retimer-easy/assets/2637621/dc98635a-2165
 
 # How to Install
 
+0. Make sure you have Python installed. If you are unsure you can check by opening Command Prompt or Powershell and entering the command "python --version".
+
 1. Download the zip from github
 
 2. Extract to somewhere, ideally somewhere you know you won't accidentally erase it (not your Downloads directory)
